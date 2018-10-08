@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KunchiLibrary", "KunchiLibrary\KunchiLibrary.csproj", "{52C9444D-EC86-42D6-9D51-BA27307F062D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{D93848E1-D74A-4332-B992-007E284EF772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C9444D-EC86-42D6-9D51-BA27307F062D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C9444D-EC86-42D6-9D51-BA27307F062D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C9444D-EC86-42D6-9D51-BA27307F062D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C9444D-EC86-42D6-9D51-BA27307F062D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93848E1-D74A-4332-B992-007E284EF772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93848E1-D74A-4332-B992-007E284EF772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93848E1-D74A-4332-B992-007E284EF772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93848E1-D74A-4332-B992-007E284EF772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
